@@ -97,7 +97,7 @@ The project generates a stem plot showing the probability of observing 0 to 14 e
 ![alt text](image.png)    
 
 ===== Poisson Distribution =====
-![alt text](image-1.png) 
+![Poisson Distribution Screenshot](image-1.png) 
 ```
 
 Two graphical windows are displayed showing the Binomial and Poisson distributions.
