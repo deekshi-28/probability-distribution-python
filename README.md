@@ -92,6 +92,17 @@ The project generates a stem plot showing the probability of observing 0 to 14 e
 
 ## Sample Output
 
+```text
+===== Binomial Distribution =====
+```
+
+![Binomial Distribution](image.png)
+
+```text
+===== Poisson Distribution =====
+```
+
+![Poisson Distribution](image-1.png)
 ```
 ===== Binomial Distribution =====
 ![alt text](image.png)    
