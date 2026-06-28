@@ -106,6 +106,7 @@ The project generates a stem plot showing the probability of observing 0 to 14 e
 ```
 
 ---
+```
 Two graphical windows are displayed showing the Binomial and Poisson distributions.
 
 ---
